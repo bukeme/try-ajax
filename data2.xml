@@ -5,10 +5,10 @@
 <age>35</age>
 <salary>$170000</salary>
 </employee>
-<employees>
+<employee>
 <name>Bassey</name>
 <age>40</age>
 <salary>$500000</salary>
-</employees>
+</employee>
 </company>
 
